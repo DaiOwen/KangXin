@@ -19,6 +19,7 @@ import java.util.List;
 
 /**
  * Swagger2API文档的配置
+ * @author daihuhu
  */
 @Configuration
 @EnableSwagger2

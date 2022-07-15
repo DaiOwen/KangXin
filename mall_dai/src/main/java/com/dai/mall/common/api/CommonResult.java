@@ -2,7 +2,7 @@ package com.dai.mall.common.api;
 
 /**
  * 通用返回对象
- * Created by macro on 2019/4/19.
+ * @author daihuhu
  */
 public class CommonResult<T> {
     private long code;
